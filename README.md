@@ -1,2 +1,0 @@
-# coursera-machine-learning
-
